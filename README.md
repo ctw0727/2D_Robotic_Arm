@@ -23,11 +23,15 @@ This code maden for private team project, Share this because I thought if anyone
 
 Algorithm based on 'Contact point of 2 Circles', the mathmetic one.
 
+When the Joint be at unable position, the Joint's position will not be update and It could looks weird.
+
 More description at here will no use after the whole Annotations in the source code.
 
-'두 원의 접점'을 수학적으로 구하는 방법을 이용한 알고리즘을 가지고 있습니다.
+'두 원의 접점'을 수학적으로 구하는 방법을 기초로 한 알고리즘을 가지고 있습니다.
 
-그 외에는 소스코드 안의 주석을 보는 게 이해가 빠를 거 같습니다.
+관절의 위치가 도달 불가능한 위치로 계산될 때, 관절의 위치는 갱신되지 않을 것이며, 조금 이상하게 보일수도 있습니다.
+
+그 외에는 소스코드 안의 주석을 보는 게 나을 거 같아 적지 않았습니다.
 
 
 README.md updated by @ctw0727 on 2021.04.27
